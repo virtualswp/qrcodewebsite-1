@@ -878,6 +878,137 @@
         "ycpage": "https://www.ycombinator.com/companies/cortex-ai",
         "batch": "F25",
         "showlogobackground": false
+     },
+     {
+        "id": 84,
+        "sortname": "Allus AI",
+        "name": "Allus AI",
+        "description": "Transforming manufacturing with our next-gen Vision Foundation Model",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/71ad9848dee44fa1e200195ee6353abc91a10e19.png",
+        "website": "https://allus.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/allus-ai",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 85,
+        "sortname": "Sunflower",
+        "name": "Sunflower",
+        "description": "Building the Sobriety Platform for the future of Superintelligence",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0205358bcacb803d2d20a6f091abad1460fc2bde.png",
+        "website": "https://sunflowersober.com/",
+        "ycpage": "https://www.ycombinator.com/companies/sunflower",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 86,
+        "sortname": "Zavo",
+        "name": "Zavo",
+        "description": "AI Point of Sale for Restaurants",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9a1286c1ed0f215411585d2faaf1c76a245ee266.png",
+        "website": "https://zavopay.com/",
+        "ycpage": "https://www.ycombinator.com/companies/zavo",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 87,
+        "sortname": "Claybird",
+        "name": "Claybird",
+        "description": "The full-stack AI ad company",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/9529719c71a2b6a4f16690eb9667a824c2ab4d65.png",
+        "website": "https://claybird.com/",
+        "ycpage": "https://www.ycombinator.com/companies/claybird",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 88,
+        "sortname": "DiligenceSquared",
+        "name": "DiligenceSquared",
+        "description": "AI-powered market due diligence for investment decisions",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/e75ae93d8e056556c69cc8d6215f5c6787ea95eb.png",
+        "website": "https://diligencesquared.com/",
+        "ycpage": "https://www.ycombinator.com/companies/diligencesquared-inc",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 89,
+        "sortname": "SellRaze",
+        "name": "SellRaze",
+        "description": "The fastest way to sell online",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/0d0c3af40b49318f2b71a98f2764633829b06a75.png",
+        "website": "https://sellraze.com/",
+        "ycpage": "https://www.ycombinator.com/companies/sellraze",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 90,
+        "sortname": "Hypercubic",
+        "name": "Hypercubic",
+        "description": "AI to maintain and modernize COBOL/mainframes",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/d7c99fca8e4cc5f92f4512cf22a4fef17d90d66d.png",
+        "website": "https://www.hypercubic.ai/",
+        "ycpage": "https://www.ycombinator.com/companies/hypercubic",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 91,
+        "sortname": "Multifactor",
+        "name": "Multifactor",
+        "description": "Zero-trust authentication, authorization, and auditing for AI agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/b22602dcf84ece0389bd7a801525177573cf75ba.png",
+        "website": "https://multifactor.com/",
+        "ycpage": "https://www.ycombinator.com/companies/multifactor",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 92,
+        "sortname": "Sorce",
+        "name": "Sorce",
+        "description": "Tinder for jobs",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/8b7d8d3ea28624898e277427bd19760e45bd0535.png",
+        "website": "https://sorce.jobs/",
+        "ycpage": "https://www.ycombinator.com/companies/sorce",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 93,
+        "sortname": "Hyperspell",
+        "name": "Hyperspell",
+        "description": "Memory for AI Agents",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/4149c6afc651c9770fc182e08dde776e24f88554.png",
+        "website": "https://hyperspell.com/",
+        "ycpage": "https://www.ycombinator.com/companies/hyperspell",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 94,
+        "sortname": "Crunched",
+        "name": "Crunched",
+        "description": "Excel AI analyst for Power Users",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/386111466c0c67b245d52cdab2fb675d0a73799e.png",
+        "website": "https://usecrunched.com/",
+        "ycpage": "https://www.ycombinator.com/companies/crunched",
+        "batch": "F25",
+        "showlogobackground": false
+     },
+     {
+        "id": 95,
+        "sortname": "Uplane",
+        "name": "Uplane",
+        "description": "Replace marketing agencies with AI",
+        "logo": "https://bookface-images.s3.amazonaws.com/small_logos/f28d39fea2309ac2fc4d42b7be088ee964dccf6a.png",
+        "website": "https://uplane.com/",
+        "ycpage": "https://www.ycombinator.com/companies/uplane",
+        "batch": "F25",
+        "showlogobackground": false
      }
-
 ]
